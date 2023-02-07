@@ -1,5 +1,8 @@
 # Ticket_Scrapper
 
+Um script de python que te permite guardar o extrato completo do cartão refeição da Ticke em formato .csv (compatível com Excel)
+
+
 <li>Instala os requisitos com: <pre>pip install -r requirements.txt</pre></li>
 <li>Certifica-te que tens o Chrome instalado</li>
 <li>Instalar ChromeDriver :<ul>
