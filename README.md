@@ -1,6 +1,6 @@
 # Ticket_Scrapper
 
-Um script de python que te permite guardar o extrato completo do cartão refeição da Ticke em formato .csv (compatível com Excel)
+Um script de python que te permite guardar o extrato completo do cartão refeição da Ticket em formato .csv (compatível com Excel)
 
 
 <li>Instala os requisitos com: <pre>pip install -r requirements.txt</pre></li>
