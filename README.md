@@ -12,3 +12,4 @@ Um script de python que te permite guardar o extrato completo do cartão refeiç
   </ul>
   <li>MacOS ou Linux :<ul>
     <li><pre>apt install chromium-chromedriver</pre></li>
+<li>Coloca o teu número do cartão no ficheiro "cartao.txt"</li>
