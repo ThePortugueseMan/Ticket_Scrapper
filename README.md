@@ -2,8 +2,10 @@
 
 Um script de python que te permite guardar o extrato completo do cartão refeição da Ticket em formato .csv (compatível com Excel)
 
-
-<li>Instala os requisitos com: <pre>pip install -r requirements.txt</pre></li>
+<li>Instala o Python (se ainda não estiver instalado)</li>
+<li>Instala o pip</li>
+<li>Faz o download do repositório</li>
+<li>Abre um terminal na pasta que fizeste o download e corre o seguinte comando: <pre>pip install -r requirements.txt</pre></li>
 <li>Certifica-te que tens o Chrome instalado</li>
 <li>Instalar ChromeDriver :<ul>
   <li>Windows :<ul>
